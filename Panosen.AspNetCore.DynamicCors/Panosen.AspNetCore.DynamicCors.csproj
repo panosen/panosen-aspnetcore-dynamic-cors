@@ -5,12 +5,12 @@
     <Authors>HarrisZhang</Authors>
     <Version>1.0.0</Version>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <RepositoryUrl>https://github.com/panosen/panosen-aspnetcore-dynamic-cors</RepositoryUrl>
     <PackageIcon>panosen.png</PackageIcon>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Description>Panosen AspNetCore Dynamic Cors Middleware.</Description>
     <PackageTags>Cors</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/panosen/panosen-aspnetcore-dynamic-cors</RepositoryUrl>
   </PropertyGroup>
 
   <PropertyGroup>
