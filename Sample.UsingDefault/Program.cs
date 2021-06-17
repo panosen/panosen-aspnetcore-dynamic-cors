@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Sample.UsingDefault
 {
-    public class Program
+    public static class Program
     {
         public static void Main(string[] args)
         {

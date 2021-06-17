@@ -11,7 +11,7 @@ namespace Sample.UsingCustom
 {
     public class CustomDynamicCorsPolicyService : IDynamicCorsPolicyService
     {
-        private SampleDBContext sampleDBContext;
+        private readonly SampleDBContext sampleDBContext;
 
         public CustomDynamicCorsPolicyService(SampleDBContext sampleDBContext)
         {
